@@ -2,7 +2,18 @@ import React from 'react'
 import './experience.css'
 const Experience = () => {
   return (
-    <section id='experience'>experience</section>
+    <section id='experience'>
+      <h5>What Skills I Have</h5>
+      <h2>My Experience</h2>
+      <div className="container experience__container">
+        <div className="experiemce_frontend">
+
+        </div>
+        <div className="experiemce_backend">
+          
+          </div>
+      </div>
+    </section>
   )
 }
 
