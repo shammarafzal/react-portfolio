@@ -1,9 +1,9 @@
 import React, { useRef, useState } from "react";
 import './testimonials.css'
-import AVTR1 from '../../assets/avatar1.jpg'
-import AVTR2 from '../../assets/avatar2.jpg'
-import AVTR3 from '../../assets/avatar3.jpg'
-import AVTR4 from '../../assets/avatar4.jpg'
+import AVTR1 from '../../assets/avatar1.jpeg'
+import AVTR2 from '../../assets/avatar2.webp'
+import AVTR3 from '../../assets/avatar3.webp'
+import AVTR4 from '../../assets/avatar4.jpeg'
 
 
 
@@ -24,23 +24,23 @@ import { Pagination } from "swiper";
 const data=[
   {
     avatar: AVTR1,
-    name: 'Anna Wojcizen',
-    review: 'Bohat Alla 1'
+    name: 'Ben Edwards',
+    review: 'Ammar is super good in mobile application development and designing. Solid English & Efficient worker.'
   },
   {
     avatar: AVTR2,
-    name: 'Amir',
-    review: 'Bohat Alla 2'
+    name: 'Quoartem',
+    review: 'Ammar is a extremely talented developer with a great way to “Research” new fields, and finding the perfect solution. It is always a pleasure.'
   },
   {
     avatar: AVTR3,
-    name: 'Fahad',
-    review: 'Bohat Alla 3'
+    name: 'Salvador Noguera',
+    review: 'Very good skills, i will recommande him for another job!!! The best :)'
   },
   {
     avatar: AVTR4,
-    name: 'Anar',
-    review: 'Bohat Alla 4'
+    name: 'Axel Vanzyl',
+    review: 'Work done well & on time. We had great communication with Ammar. He is solution oriented person and he is very quick. His skills were reasonably strong. I highly recommend him. Very pleased, thank you.'
   },
  
 ];

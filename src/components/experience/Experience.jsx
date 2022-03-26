@@ -7,6 +7,7 @@ const Experience = () => {
       <h5>What Skills I Have</h5>
       <h2>My Experience</h2>
       <div className="container experience__container">
+    
         <div className="experiemce_frontend">
             <h3>Frontend Development</h3>
             <div className="experience__content">
@@ -87,15 +88,56 @@ const Experience = () => {
                 <small className='text-light'>Experienced</small>
               </div>
               </article>
+            
+            </div>
+          </div>
+          { /* ==================== Mobile Development ==========================     */}
+        <div className="experiemce_backend">
+        <h3>Mobile App Development</h3>
+            <div className="experience__content">
               <article className='experience__details'>
                 <BsPatchCheckFill className='experience__details-icon' />
                <div>
-               <h4>React</h4>
+               <h4>React Native</h4>
                 <small className='text-light'>Experienced</small>
                </div>
               </article>
+              <article className='experience__details'>
+                <BsPatchCheckFill className='experience__details-icon' />
+              <div>
+              <h4>Flutter</h4>
+                <small className='text-light'>Experienced</small>
+              </div>
+             
+              </article>  
+             
             </div>
           </div>
+          { /* ==================== Mobile Development ==========================     */}
+          { /* ==================== Mobile Development ==========================     */}
+        <div className="experiemce_backend">
+        <h3>Graphics Design</h3>
+            <div className="experience__content">
+              <article className='experience__details'>
+                <BsPatchCheckFill className='experience__details-icon' />
+               <div>
+               <h4>UI/UX</h4>
+                <small className='text-light'>Experienced</small>
+               </div>
+              </article>
+              <article className='experience__details'>
+                <BsPatchCheckFill className='experience__details-icon' />
+              <div>
+              <h4>Logo & Thumbnail </h4>
+                <small className='text-light'>Experienced</small>
+              </div>
+             
+              </article>  
+             
+            </div>
+          </div>
+          { /* ==================== Mobile Development ==========================     */}
+
       </div>
     </section>
   )

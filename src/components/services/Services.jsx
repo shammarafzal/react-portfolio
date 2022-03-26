@@ -18,24 +18,21 @@ const Services = () => {
           <ul className='service__list'>
               <li>
                 <BiCheck className='service__list-icon'/>
-                <p>Lorem, ipsum dolor sit amet consectetur elit.</p>
+                <p>Full UI/UX for Mobile and Web App.</p>
               </li>
               <li>
                 <BiCheck className='service__list-icon'/>
-                <p>Lorem, ipsum dolor sit amet consectetur elit.</p>
+                <p> Design in Figma, Adobe Xd, Adobe Illustrator and Sketch.</p>
               </li>
               <li>
                 <BiCheck className='service__list-icon'/>
-                <p>Lorem, ipsum dolor sit amet consectetur elit.</p>
+                <p>Matching Color Schemes & Icons.</p>
               </li>
               <li>
                 <BiCheck className='service__list-icon'/>
-                <p>Lorem, ipsum dolor sit amet consectetur elit.</p>
+                <p>Full Responsive Design.</p>
               </li>
-              <li>
-                <BiCheck className='service__list-icon'/>
-                <p>Lorem, ipsum dolor sit amet consectetur elit.</p>
-              </li>
+             
           </ul>
         </article>
                {/* End of UI/UX */}
@@ -46,27 +43,27 @@ const Services = () => {
           <ul className='service__list'>
               <li>
                 <BiCheck className='service__list-icon'/>
-                <p>Lorem, ipsum dolor sit amet consectetur elit.</p>
+                <p>Frontend Development.</p>
               </li>
               <li>
                 <BiCheck className='service__list-icon'/>
-                <p>Lorem, ipsum dolor sit amet consectetur elit.</p>
+                <p>Backend Development.</p>
               </li>
               <li>
                 <BiCheck className='service__list-icon'/>
-                <p>Lorem, ipsum dolor sit amet consectetur elit.</p>
+                <p>Frontend in React JS</p>
               </li>
               <li>
                 <BiCheck className='service__list-icon'/>
-                <p>Lorem, ipsum dolor sit amet consectetur elit.</p>
+                <p>Backend in Node JS</p>
               </li>
               <li>
                 <BiCheck className='service__list-icon'/>
-                <p>Lorem, ipsum dolor sit amet consectetur elit.</p>
+                <p>Php, Laravel.</p>
               </li>
               <li>
                 <BiCheck className='service__list-icon'/>
-                <p>Lorem, ipsum dolor sit amet consectetur elit.</p>
+                <p>Full Responsive Design.</p>
               </li>
           </ul>
         </article>
@@ -78,23 +75,27 @@ const Services = () => {
           <ul className='service__list'>
               <li>
                 <BiCheck className='service__list-icon'/>
-                <p>Lorem, ipsum dolor sit amet consectetur elit.</p>
+                <p>Mobile App Frontend.</p>
               </li>
               <li>
                 <BiCheck className='service__list-icon'/>
-                <p>Lorem, ipsum dolor sit amet consectetur elit.</p>
+                <p>Mobile App Backend.</p>
               </li>
               <li>
                 <BiCheck className='service__list-icon'/>
-                <p>Lorem, ipsum dolor sit amet consectetur elit.</p>
+                <p>App in Flutter & React Native.</p>
               </li>
               <li>
                 <BiCheck className='service__list-icon'/>
-                <p>Lorem, ipsum dolor sit amet consectetur elit.</p>
+                <p>Flutter, React Native.</p>
               </li>
               <li>
                 <BiCheck className='service__list-icon'/>
-                <p>Lorem, ipsum dolor sit amet consectetur elit.</p>
+                <p>Mobile App with Admin Panel.</p>
+              </li>
+              <li>
+                <BiCheck className='service__list-icon'/>
+                <p>Full Responsive Design..</p>
               </li>
           </ul>
         </article>

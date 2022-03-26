@@ -1,6 +1,6 @@
 import React from 'react'
 import './about.css'
-import ME from '../../assets/me-about.jpg'
+import ME from '../../assets/me-about.jpeg'
 import {FaAward} from 'react-icons/fa'
 import {FiUsers} from 'react-icons/fi'
 import {VscFolderLibrary} from 'react-icons/vsc'
@@ -33,10 +33,7 @@ const About = () => {
               <small>80+ Completed</small>
             </article>
           </div>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ornare nisi in metus aliquam vehicula. 
-            Pellentesque in euismod erat. Class aptent taciti sociosqu ad litora torquent per conubia nostra, 
-            per inceptos himenaeos. Suspendisse molestie orci efficitur lacus pretium accumsan. 
-            Pellentesque nec risus id metus ullamcorper vulputate eu non nisl. 
+          <p>I'm an ambitious and enthusiastic Software Developer from Pakistan. I can develop both mobile apps and websites for you. I have great thrust for research and innovation that can help devise more efficient solutions to solve problems through technology.
           </p>
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
         </div>

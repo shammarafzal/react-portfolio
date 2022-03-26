@@ -12,45 +12,45 @@ const data = [
   {
     id: 1,
     image: IMG1,
-    title: 'Crypto Curreny Dashboard',
-    github: 'https://github.com/shammarafzal/bollinger',
-    demo: 'https://github.com/shammarafzal/bollinger'
+    title: 'Nilesisters',
+    github: 'https://github.com/shammarafzal/nilesisters',
+    demo: 'https://apps.apple.com/pk/app/nilesisters/id1563066011'
   },
 
   {
     id: 2,
     image: IMG2,
-    title: 'Crypto Curreny Dashboard',
-    github: 'https://github.com/shammarafzal/bollinger',
-    demo: 'https://github.com/shammarafzal/bollinger'
+    title: 'MyCareShift',
+    github: 'https://github.com/shammarafzal/mycareshift',
+    demo: 'https://apps.apple.com/pk/app/mycareshift/id1601412203'
   },
   {
     id: 3,
     image: IMG3,
-    title: 'Crypto Curreny Dashboard',
-    github: 'https://github.com/shammarafzal/bollinger',
-    demo: 'https://github.com/shammarafzal/bollinger'
+    title: 'Self Love Bible',
+    github: 'https://github.com/shammarafzal/selflove',
+    demo: 'https://play.google.com/store/apps/details?id=au.com.theselflovebible.selflove.self_love'
   },
   {
     id: 4,
     image: IMG4,
     title: 'Crypto Curreny Dashboard',
-    github: 'https://github.com/shammarafzal/bollinger',
-    demo: 'https://github.com/shammarafzal/bollinger'
+    github: 'https://github.com/shammarafzal/majestic_capital_dapp',
+    demo: 'https://www.figma.com/proto/gXBLT5PZvudxL0Be0XfroR/Crypto-Exchange-Web-Design?node-id=248%3A2438&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=248%3A2438'
   },
   {
     id: 5,
     image: IMG5,
-    title: 'Crypto Curreny Dashboard',
-    github: 'https://github.com/shammarafzal/bollinger',
-    demo: 'https://github.com/shammarafzal/bollinger'
+    title: 'Dreamy Cakes',
+    github: 'https://github.com/shammarafzal/',
+    demo: 'https://dreamycakes.com/'
   },
   {
     id: 6,
     image: IMG6,
-    title: 'Crypto Curreny Dashboard',
-    github: 'https://github.com/shammarafzal/bollinger',
-    demo: 'https://github.com/shammarafzal/bollinger'
+    title: 'Strato - Domain & Hosting Provider',
+    github: 'https://github.com/shammarafzal/',
+    demo: 'https://www.strato.de/'
   },
 ];
 
